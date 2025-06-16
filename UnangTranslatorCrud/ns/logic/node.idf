@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">logic</value>
+  <value name="node_pkg">UnangTranslatorCrud</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHJpdmF0ZSBzdGF0aWMgTGlzdDxTdHJpbmc+IHNlcGFyYXRlV29yZHMoU3RyaW5nIHRleHQpIHsK
+ICAgIExpc3Q8U3RyaW5nPiB0b2tlbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIE1hdGNoZXIg
+bWF0Y2hlciA9IFBhdHRlcm4uY29tcGlsZSgiXFx3K3xcXHB7UHVuY3R9fFxccysiKS5tYXRjaGVy
+KHRleHQpOwogICAgd2hpbGUgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAgICAgdG9rZW5zLmFkZCht
+YXRjaGVyLmdyb3VwKCkpOwogICAgfQogICAgcmV0dXJuIHRva2VuczsKfQoKcHJpdmF0ZSBzdGF0
+aWMgU3RyaW5nIHRvVW5hbmcoU3RyaW5nIHdvcmQpIHsKCVN0cmluZ1tdIHN1YldvcmRzID0gd29y
+ZC5zcGxpdCgiKD88PVthaXVlb10pKD89W2JjZGZnaGprbG1ucHFyc3R2d3h5el0qW2FpdWVvXVti
+Y2RmZ2hqa2xtbnBxcnN0dnd4eXpdKlxcYikiKTsKCglTdHJpbmcgeF9yYXcgPSBzdWJXb3Jkc1tz
+dWJXb3Jkcy5sZW5ndGggLSAxXTsKCglTdHJpbmcgYiA9IChzdWJXb3Jkcy5sZW5ndGggPT0gMikg
+PyBzdWJXb3Jkc1swXSA6ICIiOwoKCVN0cmluZ0J1aWxkZXIgeF9idWlsZGVyID0gbmV3IFN0cmlu
+Z0J1aWxkZXIoKTsKCVN0cmluZyBjID0gImEiOwoKCWZvciAoY2hhciBjaCA6IHhfcmF3LnRvQ2hh
+ckFycmF5KCkpIHsKCSAgICBpZiAoImFpdWVvIi5pbmRleE9mKGNoKSAhPSAtMSkgewoJICAgICAg
+ICBjID0gU3RyaW5nLnZhbHVlT2YoY2gpOwoJICAgICAgICB4X2J1aWxkZXIuYXBwZW5kKCdhJyk7
+CgkgICAgfSBlbHNlIHsKCSAgICAgICAgeF9idWlsZGVyLmFwcGVuZChjaCk7CgkgICAgfQoJfQoK
+CVN0cmluZyB4ID0geF9idWlsZGVyLnRvU3RyaW5nKCk7CgoJcmV0dXJuICJ1IiArIHggKyAiICIg
+KyBiICsgIm4iICsgYyArICJuZyI7Cn0=</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.ArrayList</value>
+    <value>java.util.Arrays</value>
+    <value>java.util.List</value>
+    <value>java.util.regex.MatchResult</value>
+    <value>java.util.regex.Matcher</value>
+    <value>java.util.regex.Pattern</value>
+    <value>java.util.stream.Collectors</value>
+  </array>
+</Values>
